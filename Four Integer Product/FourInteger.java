@@ -10,7 +10,7 @@ public class FourInteger {
     //This is a Graded Exercise
     //This program finds the product of four integers and displays the result
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);// creates a Scanner object and assigns its reference to the variable inpu
+        Scanner input = new Scanner(System.in);// creates a Scanner object and assigns its reference to the variable input
         
         System.out.println("Enter the first number");
         int firstnumber = input.nextInt();// this declaration makes whatever the user enters is saved as the variable first number
